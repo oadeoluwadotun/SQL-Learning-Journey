@@ -4,6 +4,12 @@ Some of the concepts I learned and the practice exercises are attached as SQL fi
 I completed the course on the 26th of July, 2024.
 # Course:
 SQL for Data Analysis
+# Course Curriculum
+## Section 1: Basic SQL
+<br/>SQL basics for working with a single table.
+<br/>Section 2: SQL Joins
+<br/>How to combine data from multiple tables.
+
 # Learning Platform: 
 Udacity
 # Link:
