@@ -4,11 +4,22 @@ Some of the concepts I learned and the practice exercises are attached as SQL fi
 I completed the course on the 26th of July, 2024.
 # Course:
 SQL for Data Analysis
-# Course Curriculum
-### Section 1: Basic SQL
+# Course Curriculum:
+## Section 1: Basic SQL
 <br/>SQL basics for working with a single table.
-<br/>Section 2: SQL Joins
+## Section 2: SQL Joins
 <br/>How to combine data from multiple tables.
+## Section 3: SQL Aggregations
+How to aggregate data using SQL functions like SUM, AVG, and COUNT. 
+<br/>Also, CASE, HAVING, and DATE functions provide an incredible problem-solving toolkit.
+## Section 4: SQL Subqueries & Temporary Tables
+How to answer much more complex business questions using nested querying methods - also known as subqueries.
+## Section 5: SQL Data Cleaning
+How to perform data cleaning using SQL.
+## Section 6: [Advanced] SQL Window Functions
+Compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis: window functions.
+## Section 7: [Advanced] SQL Advanced JOINs & Performance Tuning
+Learning advanced joins, and how to make queries that run quickly across giant datasets. Most of the examples in the lesson involve edge cases, some of which come up in interviews.
 
 # Learning Platform: 
 Udacity
