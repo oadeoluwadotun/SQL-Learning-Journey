@@ -1,20 +1,20 @@
-DISTINCT is always used in SELECT statements, and it provides the unique rows
-for all columns written in the SELECT statement. Therefore, you only use
-DISTINCT once in any particular SELECT statement.
+--DISTINCT is always used in SELECT statements, and it provides the unique rows
+--for all columns written in the SELECT statement. Therefore, you only use
+--DISTINCT once in any particular SELECT statement.
 
-You could write:
+--You could write:
 SELECT DISTINCT column1, column2, column3
 FROM table1;
-which would return the unique (or DISTINCT) rows across all three columns.
+--which would return the unique (or DISTINCT) rows across all three columns.
 
-You would not write:
+--You would not write:
 SELECT DISTINCT column1, DISTINCT column2, DISTINCT column3
 FROM table1;
-You can think of DISTINCT the same way you might think of the statement "unique".
+--You can think of DISTINCT the same way you might think of the statement "unique".
 
-DISTINCT - Expert Tip
-It’s worth noting that using DISTINCT, particularly in aggregations, can slow
-your queries down quite a bit.
+--DISTINCT - Expert Tip
+--It’s worth noting that using DISTINCT, particularly in aggregations, can slow
+--your queries down quite a bit.
 
 Questions: DISTINCT
 1. Use DISTINCT to test if there are any accounts associated with more than one
